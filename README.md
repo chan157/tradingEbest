@@ -1,3 +1,7 @@
+# e-Best API를 연동하여 자동매매 프로그램 만들기
+## UPBIT  자동매매도 같이
+
+### 기본 용어
 * 매수호가 - Bid
 * 매도호가 - Ask
 * 상승 - Bull
@@ -21,3 +25,8 @@
 * 상장폐지 - Delisting 
 * 몰빵 - All in 
 * 깡통 - Go Broke
+
+
+### 참고 자료
+* 프로그램동산 유튜브 : https://www.youtube.com/channel/UCq7fsrxP6oi6vnYgPkw92jg
+* 씽크알고 유튜브 : https://www.youtube.com/user/ATssarabiya
